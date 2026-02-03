@@ -1,5 +1,5 @@
-## Hi there 👋
-OW OW OW
+# HI CHAT
+### I like making pretty much useless stuff 😛
 <!--
 **ALFRATRIDE/ALFRATRIDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
