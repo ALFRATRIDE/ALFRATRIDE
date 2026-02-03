@@ -1,5 +1,8 @@
 # HI CHAT
 ### I like making pretty much useless stuff 😛
+
+If possible I would like some knowledge and wisdom on how to style or make python directories and files.
+
 <!--
 **ALFRATRIDE/ALFRATRIDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
