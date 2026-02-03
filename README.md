@@ -3,7 +3,10 @@
 
 #### I am a '2d artist' and a beginner in coding, and I think I enjoy python the most so far. . .
 
+
 If possible I would like some knowledge and wisdom on how to style or make python directories and files.
+
+Contact Me Here: alfratride@gmail.com
 
 <!--
 **ALFRATRIDE/ALFRATRIDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
