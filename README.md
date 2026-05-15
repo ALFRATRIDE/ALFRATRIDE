@@ -1,8 +1,5 @@
 # HI CHAT
-### I like making pretty much useless stuff 😛
-
-#### I am a '2d artist', a beginner in coding, and I think I enjoy python the most so far. . .
-
+### I like making pretty much useless stuff. . .
 
 If possible I would like some knowledge and wisdom on how to style or make python directories and files.
 
